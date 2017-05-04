@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaogong.me/"/>
-  <updated>2017-05-02T14:11:04.000Z</updated>
+  <updated>2017-05-04T15:57:25.000Z</updated>
   <id>http://xiaogong.me/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Resilio Sync 使用后随想</title>
+    <link href="http://xiaogong.me/2017/05/04/Resilio-Sync-%E4%BD%BF%E7%94%A8%E5%90%8E%E9%9A%8F%E6%83%B3/"/>
+    <id>http://xiaogong.me/2017/05/04/Resilio-Sync-使用后随想/</id>
+    <published>2017-05-04T15:55:40.000Z</published>
+    <updated>2017-05-04T15:57:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Resilio Sync 是个神器，它可以通过密钥分享你拥有设备上的文件。使用过一段时间之后，觉得不错。</p>
+<h1 id="速度"><a href="#速度" class="headerlink" title="速度"></a>速度</h1><p>只要你的文件分享后的共享节点足够多，那么速度就越快。</p>
+<h1 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h1><p>可以是你自己的工作文件通过间共享，也可以是生活照片的共享，还可以是一个自己的静态网站，静态博客，录制的音频节目，歌曲录音，自制视频等，工具一旦普及和玩法多样化，那么很多现在的网站，APP等并不需要存在了，去中心化了。</p>
+<h1 id="易用性"><a href="#易用性" class="headerlink" title="易用性"></a>易用性</h1><p>软件做的非常简洁，易用性强。</p>
+<h1 id="共享key"><a href="#共享key" class="headerlink" title="共享key"></a>共享key</h1><p>已经有很多公开的key了，大部分是资源key。<br>哦，对了也许你可以看下这个key</p>
+<blockquote>
+<p><a href="https://syncfan.com/" target="_blank" rel="external">https://syncfan.com/</a></p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Resilio Sync 是个神器，它可以通过密钥分享你拥有设备上的文件。使用过一段时间之后，觉得不错。&lt;/p&gt;
+&lt;h1 id=&quot;速度&quot;&gt;&lt;a href=&quot;#速度&quot; class=&quot;headerlink&quot; title=&quot;速度&quot;&gt;&lt;/a&gt;速度&lt;/h1&gt;&lt;p&gt;只要你的文件分享后的
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="http://xiaogong.me/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>用户手册</title>
