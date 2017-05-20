@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaogong.me/"/>
-  <updated>2017-05-19T06:28:39.000Z</updated>
+  <updated>2017-05-20T02:46:57.000Z</updated>
   <id>http://xiaogong.me/</id>
   
   <author>
@@ -14,6 +14,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Github的Push操作后提示Connection reset by peer问题解决方法</title>
+    <link href="http://xiaogong.me/2017/05/20/Github%E7%9A%84Push%E6%93%8D%E4%BD%9C%E5%90%8E%E6%8F%90%E7%A4%BAConnection-reset-by-peer%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>http://xiaogong.me/2017/05/20/Github的Push操作后提示Connection-reset-by-peer问题解决方法/</id>
+    <published>2017-05-20T02:46:20.000Z</published>
+    <updated>2017-05-20T02:46:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Github的Push操作后提示Connection reset by peer问题解决方法</p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这个问题耗费了我大约3个小时，并且让我很不爽。生命就是这样浪费的，希望此文对遭遇同此问题的人有所帮助。</p>
+<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>按照惯例我写好博文后，准备提交（Hexo d）到Github，但这回出现了这个</p>
+<blockquote>
+<p>ssh_exchange_identification: read: Connection reset by peer</p>
+</blockquote>
+<p>在终端输入</p>
+<blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">&gt; ssh -T -v git@github.com</div><div class="line">&gt;</div></pre></td></tr></table></figure>
+</blockquote>
+<p>出现类似下面的信息：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line">&gt; ssh -T -v git@github.com</div><div class="line">debug1: Reading configuration data /Users/xxx/.ssh/config</div><div class="line">debug1: /c/Users/ELI/.ssh/config line 1: Applying options for github.com</div><div class="line">debug1: Reading configuration data /etc/ssh/ssh_config</div><div class="line">debug1: /etc/ssh/ssh_config line 1: Applying options for *</div><div class="line">debug1: /etc/ssh/ssh_config line 5: Applying options for github.com</div><div class="line">debug1: Connecting to ssh.github.com [192.30.253.112] port 443.</div><div class="line">debug1: Connection established.</div><div class="line">debug1: identity file /Users/ELI/.ssh/id_rsa type 1</div><div class="line">debug1: key_load_public: No such file or directory</div><div class="line">debug1: identity file /Users/ELI/.ssh/id_rsa-cert type -1</div><div class="line">debug1: identity file /Users/ELI/.ssh/github_rsa type 1</div><div class="line">debug1: key_load_public: No such file or directory</div><div class="line">debug1: identity file /Users/ELI/.ssh/github_rsa-cert type -1</div><div class="line">debug1: Enabling compatibility mode for protocol 2.0</div><div class="line">debug1: Local version string SSH-2.0-OpenSSH_7.3</div><div class="line">ssh_exchange_identification: Connection closed by remote host</div></pre></td></tr></table></figure>
+<h2 id="办法"><a href="#办法" class="headerlink" title="办法"></a>办法</h2><p>于是搜索解决办法（很多是连接阿里云或者服务器的ssh问题，搜索的时候要去除，比如加减号），尝试了一些解决办法</p>
+<ul>
+<li>修改~/.ssh目录和文件权限，无效</li>
+</ul>
+<ul>
+<li>按照<a href="https://help.github.com/articles/connecting-to-github-with-ssh/" target="_blank" rel="external">github官网教程</a>重新生成我的SSH并测试，无效</li>
+<li>修改hosts文件，添加这一行 192.30.253.112 github.com   ，仍然无效</li>
+</ul>
+<p>于是仔细回想了我的电脑这几天有什么配置更新，无非就是科学上网的规则文件添加了一些网址，于是注释掉这些网址，仍然无效。</p>
+<p>最后在看这个<a href="https://segmentfault.com/q/1010000007667483" target="_blank" rel="external">帖子</a>的时候，想起来了我的上网环境有变化，现在是在图书馆，所以<strong>可能是图书馆的防火墙或者代理服务器或者路由器缓存的问题，于是把上网网络改为手机4G提供热点来上网</strong>，Hexo d提交ok。所以如果你的电脑环境从家里换成公司或者其他公共场合，就要注意了，可能是提供网络的路由器或者机构的防火墙作怪哦。</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><ol>
+<li>搜索解决方案的时候，务必想好关键词，比如这个问题， 搜索（ssh_exchange_identification: read: Connection reset by peer）时一定要加上 github ，否则会搜出一大堆服务器相关的类似问题，将会耗费你很多时间。</li>
+</ol>
+<ol>
+<li>类似问题多联想电脑的环境，不仅仅是软件环境，还包括物理环境，网络，配件，电源等的改变。</li>
+<li>类似问题，应该多从 <a href="https://segmentfault.com" target="_blank" rel="external">https://segmentfault.com</a>    <a href="http://stackoverflow.com/" target="_blank" rel="external">http://stackoverflow.com/</a>  知乎 等类似网站找办法，这样可以更快找到解决办法。</li>
+<li>网络问题，要考虑中国国情。</li>
+</ol>
+<h2 id="参考："><a href="#参考：" class="headerlink" title="参考："></a>参考：</h2><p><a href="https://segmentfault.com/q/1010000007667483" target="_blank" rel="external">https://segmentfault.com/q/1010000007667483</a></p>
+<p><a href="https://blog.hainuo.info/blog/235.mhtml" target="_blank" rel="external">https://blog.hainuo.info/blog/235.mhtml</a></p>
+<p><a href="https://help.github.com/articles/connecting-to-github-with-ssh/" target="_blank" rel="external">https://help.github.com/articles/connecting-to-github-with-ssh/</a></p>
+<p><a href="http://molon.me/2013/12/ru-he-zai-ben-ji-pei-zhi-githubde-ssh/" target="_blank" rel="external">http://molon.me/2013/12/ru-he-zai-ben-ji-pei-zhi-githubde-ssh/</a></p>
+<p><a href="http://blog.csdn.net/gdutxiaoxu/article/details/53573426" target="_blank" rel="external">http://blog.csdn.net/gdutxiaoxu/article/details/53573426</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Github的Push操作后提示Connection reset by peer问题解决方法&lt;/p&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;这个问题耗费了我大约3个小时，并
+    
+    </summary>
+    
+    
+      <category term="问题" scheme="http://xiaogong.me/tags/%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
   
   <entry>
     <title>杭州的小红车</title>
