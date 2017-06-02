@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaogong.me/"/>
-  <updated>2017-06-02T02:06:44.000Z</updated>
+  <updated>2017-06-02T02:22:17.000Z</updated>
   <id>http://xiaogong.me/</id>
   
   <author>
@@ -16,13 +16,58 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>推荐一个好用的图床和找图片的网站</title>
+    <link href="http://xiaogong.me/2017/06/02/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%94%A8%E7%9A%84%E5%9B%BE%E5%BA%8A%E5%92%8C%E6%89%BE%E5%9B%BE%E7%89%87%E7%9A%84%E7%BD%91%E7%AB%99/"/>
+    <id>http://xiaogong.me/2017/06/02/推荐一个好用的图床和找图片的网站/</id>
+    <published>2017-06-02T02:21:33.000Z</published>
+    <updated>2017-06-02T02:22:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://image.ibb.co/c54cvv/image.jpg" alt=""></p>
+<p>传说七牛的图床比较好用，所以开始探索，用下来的感想是</p>
+<blockquote>
+<p>哎呀，不是一般的难用啊</p>
+<ol>
+<li>没有好用的客户端，直接上传图片，因此产生了大量的网站和工具来支持。</li>
+<li>图片的网址做域名转换居然需要备案。</li>
+<li>最恶心的是，你的余额如果不足10块，不能进行域名转换，七牛你是不是穷疯了。</li>
+</ol>
+</blockquote>
+<p>无奈之下，我只有放弃了。</p>
+<p>下面推荐一个极其好用的图床</p>
+<blockquote>
+<p><a href="https://imgbb.com" target="_blank" rel="external">https://imgbb.com</a></p>
+</blockquote>
+<p>不用注册，拖动图片，直接上传，而且速度不错，上传完成，直接给出网址，给出复制按钮。，无比方便。</p>
+<p>另外，写文章找无版权图片，比较困难，这里推荐一个我常用的，总是能让你找到合适的。</p>
+<blockquote>
+<p><a href="https://pixabay.com/" target="_blank" rel="external">https://pixabay.com/</a></p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://image.ibb.co/c54cvv/image.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;传说七牛的图床比较好用，所以开始探索，用下来的感想是&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;哎呀，不是一般的难用啊&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;没
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="http://xiaogong.me/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>推荐一个超好用的Podcast软件，值得你拥有</title>
     <link href="http://xiaogong.me/2017/06/02/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84Podcast%E8%BD%AF%E4%BB%B6%EF%BC%8C%E5%80%BC%E5%BE%97%E4%BD%A0%E6%8B%A5%E6%9C%89/"/>
     <id>http://xiaogong.me/2017/06/02/推荐一个超好用的Podcast软件，值得你拥有/</id>
     <published>2017-06-02T02:02:16.000Z</published>
-    <updated>2017-06-02T02:06:44.000Z</updated>
+    <updated>2017-06-02T02:08:41.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://image.ibb.co/jqRnTF/overcast.png" alt="overcast"><br>苹果自带的Podcast并不是很好用。我的最爱是Overcast。</p>
+    <content type="html"><![CDATA[<p><img src="https://image.ibb.co/jqRnTF/overcast.png" alt=""><br>苹果自带的Podcast并不是很好用。我的最爱是Overcast。</p>
 <p>为什么呢</p>
 <p>因为它有着下面的杀手锏特性</p>
 <ul>
@@ -37,9 +82,10 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://image.ibb.co/jqRnTF/overcast.png&quot; alt=&quot;overcast&quot;&gt;&lt;br&gt;苹果自带的Podcast并不是很好用。我的最爱是Overcast。&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://image.ibb.co/jqRnTF/overcast.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;苹果自带的Podcast并不是很好用。我的最爱是Overcast。&lt;/p&gt;
 &lt;p&gt;为什么呢&lt;/p&gt;
-&lt;p&gt;因为它有着下面的杀手锏特性
+&lt;p&gt;因为它有着下面的杀手锏特性&lt;/p&gt;
+&lt;ul
     
     </summary>
     
