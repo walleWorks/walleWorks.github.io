@@ -1,24 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小工日志</title>
+  <title>豪哥的世界</title>
   <subtitle>一段时间加空间摩擦后组成的东东</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://xiaogong.me/"/>
-  <updated>2017-07-15T00:56:39.000Z</updated>
-  <id>http://xiaogong.me/</id>
+  <link href="http://dtoucoin.com/"/>
+  <updated>2018-12-08T05:06:53.000Z</updated>
+  <id>http://dtoucoin.com/</id>
   
   <author>
-    <name>姜 豪</name>
+    <name>豪哥</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>虚拟币相关网站</title>
+    <link href="http://dtoucoin.com/2018/12/08/%E8%99%9A%E6%8B%9F%E5%B8%81%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/"/>
+    <id>http://dtoucoin.com/2018/12/08/虚拟币相关网站/</id>
+    <published>2018-12-08T05:06:30.000Z</published>
+    <updated>2018-12-08T05:06:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="比特币源代码，第一手资料"><a href="#比特币源代码，第一手资料" class="headerlink" title="比特币源代码，第一手资料"></a>比特币源代码，第一手资料</h1><p><a href="https://github.com/bitcoin/bitcoin" target="_blank" rel="external">https://github.com/bitcoin/bitcoin</a></p>
+<h1 id="论坛，信息到这里找"><a href="#论坛，信息到这里找" class="headerlink" title="论坛，信息到这里找"></a>论坛，信息到这里找</h1><p><a href="https://bitcointalk.org/" target="_blank" rel="external">https://bitcointalk.org/</a></p>
+<h1 id="看价格，可能是大家最关注的"><a href="#看价格，可能是大家最关注的" class="headerlink" title="看价格，可能是大家最关注的"></a>看价格，可能是大家最关注的</h1><p><a href="https://coinmarketcap.com" target="_blank" rel="external">https://coinmarketcap.com</a></p>
+<h1 id="查地址交易和余额，有了币之后可能会用的"><a href="#查地址交易和余额，有了币之后可能会用的" class="headerlink" title="查地址交易和余额，有了币之后可能会用的"></a>查地址交易和余额，有了币之后可能会用的</h1><p><a href="http://blockchain.info" target="_blank" rel="external">http://blockchain.info</a> </p>
+<h1 id="交易所"><a href="#交易所" class="headerlink" title="交易所"></a>交易所</h1><p><a href="https://www.huobi.pro" target="_blank" rel="external">https://www.huobi.pro</a><br><a href="https://www.okex.com" target="_blank" rel="external">https://www.okex.com</a><br><a href="https://poloniex.com" target="_blank" rel="external">https://poloniex.com</a><br><a href="https://exchange.btcc.com" target="_blank" rel="external">https://exchange.btcc.com</a><br><a href="https://www.bitfinex.com" target="_blank" rel="external">https://www.bitfinex.com</a></p>
+<h1 id="还有篇文章值得一读"><a href="#还有篇文章值得一读" class="headerlink" title="还有篇文章值得一读"></a>还有篇文章值得一读</h1><p><a href="http://www.btc38.com/btc/btc_exp/508.html" target="_blank" rel="external">http://www.btc38.com/btc/btc_exp/508.html</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;比特币源代码，第一手资料&quot;&gt;&lt;a href=&quot;#比特币源代码，第一手资料&quot; class=&quot;headerlink&quot; title=&quot;比特币源代码，第一手资料&quot;&gt;&lt;/a&gt;比特币源代码，第一手资料&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bi
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>图像视频领域，发现的几个资源</title>
-    <link href="http://xiaogong.me/2017/07/15/%E5%9B%BE%E5%83%8F%E8%A7%86%E9%A2%91%E9%A2%86%E5%9F%9F%EF%BC%8C%E5%8F%91%E7%8E%B0%E7%9A%84%E5%87%A0%E4%B8%AA%E8%B5%84%E6%BA%90/"/>
-    <id>http://xiaogong.me/2017/07/15/图像视频领域，发现的几个资源/</id>
+    <link href="http://dtoucoin.com/2017/07/15/%E5%9B%BE%E5%83%8F%E8%A7%86%E9%A2%91%E9%A2%86%E5%9F%9F%EF%BC%8C%E5%8F%91%E7%8E%B0%E7%9A%84%E5%87%A0%E4%B8%AA%E8%B5%84%E6%BA%90/"/>
+    <id>http://dtoucoin.com/2017/07/15/图像视频领域，发现的几个资源/</id>
     <published>2017-07-15T00:55:57.000Z</published>
     <updated>2017-07-15T00:56:39.000Z</updated>
     
@@ -59,14 +83,14 @@
     </summary>
     
     
-      <category term="资源" scheme="http://xiaogong.me/tags/%E8%B5%84%E6%BA%90/"/>
+      <category term="资源" scheme="http://dtoucoin.com/tags/%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
   <entry>
     <title>因地制宜，与时俱进</title>
-    <link href="http://xiaogong.me/2017/07/15/%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%EF%BC%8C%E4%B8%8E%E6%97%B6%E4%BF%B1%E8%BF%9B/"/>
-    <id>http://xiaogong.me/2017/07/15/因地制宜，与时俱进/</id>
+    <link href="http://dtoucoin.com/2017/07/15/%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C%EF%BC%8C%E4%B8%8E%E6%97%B6%E4%BF%B1%E8%BF%9B/"/>
+    <id>http://dtoucoin.com/2017/07/15/因地制宜，与时俱进/</id>
     <published>2017-07-15T00:51:23.000Z</published>
     <updated>2017-07-15T00:52:02.000Z</updated>
     
@@ -89,14 +113,14 @@
     </summary>
     
     
-      <category term="产品" scheme="http://xiaogong.me/tags/%E4%BA%A7%E5%93%81/"/>
+      <category term="产品" scheme="http://dtoucoin.com/tags/%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
   <entry>
     <title>三千块和三万块</title>
-    <link href="http://xiaogong.me/2017/06/11/%E4%B8%89%E5%8D%83%E5%9D%97%E5%92%8C%E4%B8%89%E4%B8%87%E5%9D%97/"/>
-    <id>http://xiaogong.me/2017/06/11/三千块和三万块/</id>
+    <link href="http://dtoucoin.com/2017/06/11/%E4%B8%89%E5%8D%83%E5%9D%97%E5%92%8C%E4%B8%89%E4%B8%87%E5%9D%97/"/>
+    <id>http://dtoucoin.com/2017/06/11/三千块和三万块/</id>
     <published>2017-06-11T07:26:04.000Z</published>
     <updated>2017-06-11T07:27:03.000Z</updated>
     
@@ -128,14 +152,14 @@
     </summary>
     
     
-      <category term="随想" scheme="http://xiaogong.me/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://dtoucoin.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>卡农，一辈子听不厌</title>
-    <link href="http://xiaogong.me/2017/06/04/%E5%8D%A1%E5%86%9C%EF%BC%8C%E4%B8%80%E8%BE%88%E5%AD%90%E5%90%AC%E4%B8%8D%E5%8E%8C/"/>
-    <id>http://xiaogong.me/2017/06/04/卡农，一辈子听不厌/</id>
+    <link href="http://dtoucoin.com/2017/06/04/%E5%8D%A1%E5%86%9C%EF%BC%8C%E4%B8%80%E8%BE%88%E5%AD%90%E5%90%AC%E4%B8%8D%E5%8E%8C/"/>
+    <id>http://dtoucoin.com/2017/06/04/卡农，一辈子听不厌/</id>
     <published>2017-06-04T03:13:17.000Z</published>
     <updated>2017-06-04T03:14:15.000Z</updated>
     
@@ -185,14 +209,14 @@
     </summary>
     
     
-      <category term="随想" scheme="http://xiaogong.me/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://dtoucoin.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>推荐一个好用的图床和找图片的网站</title>
-    <link href="http://xiaogong.me/2017/06/02/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%94%A8%E7%9A%84%E5%9B%BE%E5%BA%8A%E5%92%8C%E6%89%BE%E5%9B%BE%E7%89%87%E7%9A%84%E7%BD%91%E7%AB%99/"/>
-    <id>http://xiaogong.me/2017/06/02/推荐一个好用的图床和找图片的网站/</id>
+    <link href="http://dtoucoin.com/2017/06/02/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%94%A8%E7%9A%84%E5%9B%BE%E5%BA%8A%E5%92%8C%E6%89%BE%E5%9B%BE%E7%89%87%E7%9A%84%E7%BD%91%E7%AB%99/"/>
+    <id>http://dtoucoin.com/2017/06/02/推荐一个好用的图床和找图片的网站/</id>
     <published>2017-06-02T02:21:33.000Z</published>
     <updated>2017-06-02T02:22:17.000Z</updated>
     
@@ -230,14 +254,14 @@
     </summary>
     
     
-      <category term="工具" scheme="http://xiaogong.me/tags/%E5%B7%A5%E5%85%B7/"/>
+      <category term="工具" scheme="http://dtoucoin.com/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
     <title>推荐一个超好用的Podcast软件，值得你拥有</title>
-    <link href="http://xiaogong.me/2017/06/02/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84Podcast%E8%BD%AF%E4%BB%B6%EF%BC%8C%E5%80%BC%E5%BE%97%E4%BD%A0%E6%8B%A5%E6%9C%89/"/>
-    <id>http://xiaogong.me/2017/06/02/推荐一个超好用的Podcast软件，值得你拥有/</id>
+    <link href="http://dtoucoin.com/2017/06/02/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84Podcast%E8%BD%AF%E4%BB%B6%EF%BC%8C%E5%80%BC%E5%BE%97%E4%BD%A0%E6%8B%A5%E6%9C%89/"/>
+    <id>http://dtoucoin.com/2017/06/02/推荐一个超好用的Podcast软件，值得你拥有/</id>
     <published>2017-06-02T02:02:16.000Z</published>
     <updated>2017-06-02T02:08:41.000Z</updated>
     
@@ -264,14 +288,14 @@
     </summary>
     
     
-      <category term="工具" scheme="http://xiaogong.me/tags/%E5%B7%A5%E5%85%B7/"/>
+      <category term="工具" scheme="http://dtoucoin.com/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
     <title>罗永浩：没有现在的我辅导5年前的我，所以创业五年来那么艰辛。这部剧可以实现梦想</title>
-    <link href="http://xiaogong.me/2017/06/02/%E7%BD%97%E6%B0%B8%E6%B5%A9%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%91%E8%BE%85%E5%AF%BC5%E5%B9%B4%E5%89%8D%E7%9A%84%E6%88%91%EF%BC%8C%E6%89%80%E4%BB%A5%E5%88%9B%E4%B8%9A%E4%BA%94%E5%B9%B4%E6%9D%A5%E9%82%A3%E4%B9%88%E8%89%B0%E8%BE%9B%E3%80%82%E8%BF%99%E9%83%A8%E5%89%A7%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%E6%A2%A6%E6%83%B3/"/>
-    <id>http://xiaogong.me/2017/06/02/罗永浩：没有现在的我辅导5年前的我，所以创业五年来那么艰辛。这部剧可以实现梦想/</id>
+    <link href="http://dtoucoin.com/2017/06/02/%E7%BD%97%E6%B0%B8%E6%B5%A9%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%91%E8%BE%85%E5%AF%BC5%E5%B9%B4%E5%89%8D%E7%9A%84%E6%88%91%EF%BC%8C%E6%89%80%E4%BB%A5%E5%88%9B%E4%B8%9A%E4%BA%94%E5%B9%B4%E6%9D%A5%E9%82%A3%E4%B9%88%E8%89%B0%E8%BE%9B%E3%80%82%E8%BF%99%E9%83%A8%E5%89%A7%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%E6%A2%A6%E6%83%B3/"/>
+    <id>http://dtoucoin.com/2017/06/02/罗永浩：没有现在的我辅导5年前的我，所以创业五年来那么艰辛。这部剧可以实现梦想/</id>
     <published>2017-06-02T00:20:54.000Z</published>
     <updated>2017-06-02T01:17:26.000Z</updated>
     
@@ -300,14 +324,14 @@
     </summary>
     
     
-      <category term="电影" scheme="http://xiaogong.me/tags/%E7%94%B5%E5%BD%B1/"/>
+      <category term="电影" scheme="http://dtoucoin.com/tags/%E7%94%B5%E5%BD%B1/"/>
     
   </entry>
   
   <entry>
     <title>做这个时代的”生产者“，而不仅仅是”消费者“</title>
-    <link href="http://xiaogong.me/2017/06/02/%E5%81%9A%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E2%80%9D%E7%94%9F%E4%BA%A7%E8%80%85%E2%80%9C%EF%BC%8C%E8%80%8C%E4%B8%8D%E4%BB%85%E4%BB%85%E6%98%AF%E2%80%9D%E6%B6%88%E8%B4%B9%E8%80%85%E2%80%9C/"/>
-    <id>http://xiaogong.me/2017/06/02/做这个时代的”生产者“，而不仅仅是”消费者“/</id>
+    <link href="http://dtoucoin.com/2017/06/02/%E5%81%9A%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E2%80%9D%E7%94%9F%E4%BA%A7%E8%80%85%E2%80%9C%EF%BC%8C%E8%80%8C%E4%B8%8D%E4%BB%85%E4%BB%85%E6%98%AF%E2%80%9D%E6%B6%88%E8%B4%B9%E8%80%85%E2%80%9C/"/>
+    <id>http://dtoucoin.com/2017/06/02/做这个时代的”生产者“，而不仅仅是”消费者“/</id>
     <published>2017-06-01T23:49:10.000Z</published>
     <updated>2017-06-01T23:50:14.000Z</updated>
     
@@ -357,14 +381,14 @@
     </summary>
     
     
-      <category term="随想" scheme="http://xiaogong.me/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://dtoucoin.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>学习Javascript，代码编辑用什么工具好？不妨试试Visual Studio Code</title>
-    <link href="http://xiaogong.me/2017/05/31/%E5%AD%A6%E4%B9%A0Javascript%EF%BC%8C%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E7%94%A8%E4%BB%80%E4%B9%88%E5%B7%A5%E5%85%B7%E5%A5%BD%EF%BC%9F%E4%B8%8D%E5%A6%A8%E8%AF%95%E8%AF%95Visual-Studio-Code/"/>
-    <id>http://xiaogong.me/2017/05/31/学习Javascript，代码编辑用什么工具好？不妨试试Visual-Studio-Code/</id>
+    <link href="http://dtoucoin.com/2017/05/31/%E5%AD%A6%E4%B9%A0Javascript%EF%BC%8C%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E7%94%A8%E4%BB%80%E4%B9%88%E5%B7%A5%E5%85%B7%E5%A5%BD%EF%BC%9F%E4%B8%8D%E5%A6%A8%E8%AF%95%E8%AF%95Visual-Studio-Code/"/>
+    <id>http://dtoucoin.com/2017/05/31/学习Javascript，代码编辑用什么工具好？不妨试试Visual-Studio-Code/</id>
     <published>2017-05-31T00:25:22.000Z</published>
     <updated>2017-05-31T01:10:15.000Z</updated>
     
@@ -477,14 +501,14 @@
     </summary>
     
     
-      <category term="方法" scheme="http://xiaogong.me/tags/%E6%96%B9%E6%B3%95/"/>
+      <category term="方法" scheme="http://dtoucoin.com/tags/%E6%96%B9%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>得到罗胖的001号知识发布会</title>
-    <link href="http://xiaogong.me/2017/05/29/%E5%BE%97%E5%88%B0%E7%BD%97%E8%83%96%E7%9A%84001%E5%8F%B7%E7%9F%A5%E8%AF%86%E5%8F%91%E5%B8%83%E4%BC%9A/"/>
-    <id>http://xiaogong.me/2017/05/29/得到罗胖的001号知识发布会/</id>
+    <link href="http://dtoucoin.com/2017/05/29/%E5%BE%97%E5%88%B0%E7%BD%97%E8%83%96%E7%9A%84001%E5%8F%B7%E7%9F%A5%E8%AF%86%E5%8F%91%E5%B8%83%E4%BC%9A/"/>
+    <id>http://dtoucoin.com/2017/05/29/得到罗胖的001号知识发布会/</id>
     <published>2017-05-29T13:08:37.000Z</published>
     <updated>2017-05-29T13:09:07.000Z</updated>
     
@@ -529,14 +553,14 @@
     </summary>
     
     
-      <category term="随想" scheme="http://xiaogong.me/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://dtoucoin.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>别迷茫了，你的主要目标是为他人带来价值</title>
-    <link href="http://xiaogong.me/2017/05/27/%E5%88%AB%E8%BF%B7%E8%8C%AB%E4%BA%86%EF%BC%8C%E4%BD%A0%E7%9A%84%E4%B8%BB%E8%A6%81%E7%9B%AE%E6%A0%87%E6%98%AF%E4%B8%BA%E4%BB%96%E4%BA%BA%E5%B8%A6%E6%9D%A5%E4%BB%B7%E5%80%BC/"/>
-    <id>http://xiaogong.me/2017/05/27/别迷茫了，你的主要目标是为他人带来价值/</id>
+    <link href="http://dtoucoin.com/2017/05/27/%E5%88%AB%E8%BF%B7%E8%8C%AB%E4%BA%86%EF%BC%8C%E4%BD%A0%E7%9A%84%E4%B8%BB%E8%A6%81%E7%9B%AE%E6%A0%87%E6%98%AF%E4%B8%BA%E4%BB%96%E4%BA%BA%E5%B8%A6%E6%9D%A5%E4%BB%B7%E5%80%BC/"/>
+    <id>http://dtoucoin.com/2017/05/27/别迷茫了，你的主要目标是为他人带来价值/</id>
     <published>2017-05-27T14:46:09.000Z</published>
     <updated>2017-05-27T14:47:16.000Z</updated>
     
@@ -601,14 +625,14 @@
     </summary>
     
     
-      <category term="随想" scheme="http://xiaogong.me/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://dtoucoin.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>学了这么久编程，还是没有学会，怎么办</title>
-    <link href="http://xiaogong.me/2017/05/26/%E5%AD%A6%E4%BA%86%E8%BF%99%E4%B9%88%E4%B9%85%E7%BC%96%E7%A8%8B%EF%BC%8C%E8%BF%98%E6%98%AF%E6%B2%A1%E6%9C%89%E5%AD%A6%E4%BC%9A%EF%BC%8C%E6%80%8E%E4%B9%88%E5%8A%9E/"/>
-    <id>http://xiaogong.me/2017/05/26/学了这么久编程，还是没有学会，怎么办/</id>
+    <link href="http://dtoucoin.com/2017/05/26/%E5%AD%A6%E4%BA%86%E8%BF%99%E4%B9%88%E4%B9%85%E7%BC%96%E7%A8%8B%EF%BC%8C%E8%BF%98%E6%98%AF%E6%B2%A1%E6%9C%89%E5%AD%A6%E4%BC%9A%EF%BC%8C%E6%80%8E%E4%B9%88%E5%8A%9E/"/>
+    <id>http://dtoucoin.com/2017/05/26/学了这么久编程，还是没有学会，怎么办/</id>
     <published>2017-05-26T08:19:18.000Z</published>
     <updated>2017-05-26T08:35:28.000Z</updated>
     
@@ -661,14 +685,14 @@
     </summary>
     
     
-      <category term="技能" scheme="http://xiaogong.me/tags/%E6%8A%80%E8%83%BD/"/>
+      <category term="技能" scheme="http://dtoucoin.com/tags/%E6%8A%80%E8%83%BD/"/>
     
   </entry>
   
   <entry>
     <title>“管道”就是生命线，职场人更应打造自己的“管道”</title>
-    <link href="http://xiaogong.me/2017/05/25/%E2%80%9C%E7%AE%A1%E9%81%93%E2%80%9D%E5%B0%B1%E6%98%AF%E7%94%9F%E5%91%BD%E7%BA%BF%EF%BC%8C%E8%81%8C%E5%9C%BA%E4%BA%BA%E6%9B%B4%E5%BA%94%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E2%80%9C%E7%AE%A1%E9%81%93%E2%80%9D/"/>
-    <id>http://xiaogong.me/2017/05/25/“管道”就是生命线，职场人更应打造自己的“管道”/</id>
+    <link href="http://dtoucoin.com/2017/05/25/%E2%80%9C%E7%AE%A1%E9%81%93%E2%80%9D%E5%B0%B1%E6%98%AF%E7%94%9F%E5%91%BD%E7%BA%BF%EF%BC%8C%E8%81%8C%E5%9C%BA%E4%BA%BA%E6%9B%B4%E5%BA%94%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E2%80%9C%E7%AE%A1%E9%81%93%E2%80%9D/"/>
+    <id>http://dtoucoin.com/2017/05/25/“管道”就是生命线，职场人更应打造自己的“管道”/</id>
     <published>2017-05-25T07:41:35.000Z</published>
     <updated>2017-05-25T07:42:21.000Z</updated>
     
@@ -715,14 +739,14 @@
     </summary>
     
     
-      <category term="随想" scheme="http://xiaogong.me/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://dtoucoin.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>工作感悟</title>
-    <link href="http://xiaogong.me/2017/05/24/%E5%B7%A5%E4%BD%9C%E6%84%9F%E6%82%9F/"/>
-    <id>http://xiaogong.me/2017/05/24/工作感悟/</id>
+    <link href="http://dtoucoin.com/2017/05/24/%E5%B7%A5%E4%BD%9C%E6%84%9F%E6%82%9F/"/>
+    <id>http://dtoucoin.com/2017/05/24/工作感悟/</id>
     <published>2017-05-24T04:51:03.000Z</published>
     <updated>2017-05-24T04:51:40.000Z</updated>
     
@@ -752,14 +776,14 @@
     </summary>
     
     
-      <category term="随想" scheme="http://xiaogong.me/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://dtoucoin.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>码尺</title>
-    <link href="http://xiaogong.me/2017/05/22/%E7%A0%81%E5%B0%BA/"/>
-    <id>http://xiaogong.me/2017/05/22/码尺/</id>
+    <link href="http://dtoucoin.com/2017/05/22/%E7%A0%81%E5%B0%BA/"/>
+    <id>http://dtoucoin.com/2017/05/22/码尺/</id>
     <published>2017-05-22T07:24:40.000Z</published>
     <updated>2017-05-22T07:27:19.000Z</updated>
     
@@ -810,8 +834,8 @@
   
   <entry>
     <title>Github的Push操作后提示Connection reset by peer问题解决方法</title>
-    <link href="http://xiaogong.me/2017/05/20/Github%E7%9A%84Push%E6%93%8D%E4%BD%9C%E5%90%8E%E6%8F%90%E7%A4%BAConnection-reset-by-peer%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
-    <id>http://xiaogong.me/2017/05/20/Github的Push操作后提示Connection-reset-by-peer问题解决方法/</id>
+    <link href="http://dtoucoin.com/2017/05/20/Github%E7%9A%84Push%E6%93%8D%E4%BD%9C%E5%90%8E%E6%8F%90%E7%A4%BAConnection-reset-by-peer%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>http://dtoucoin.com/2017/05/20/Github的Push操作后提示Connection-reset-by-peer问题解决方法/</id>
     <published>2017-05-20T02:46:20.000Z</published>
     <updated>2017-05-20T02:46:57.000Z</updated>
     
@@ -860,14 +884,14 @@
     </summary>
     
     
-      <category term="问题" scheme="http://xiaogong.me/tags/%E9%97%AE%E9%A2%98/"/>
+      <category term="问题" scheme="http://dtoucoin.com/tags/%E9%97%AE%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>杭州的小红车</title>
-    <link href="http://xiaogong.me/2017/05/19/%E6%9D%AD%E5%B7%9E%E7%9A%84%E5%B0%8F%E7%BA%A2%E8%BD%A6/"/>
-    <id>http://xiaogong.me/2017/05/19/杭州的小红车/</id>
+    <link href="http://dtoucoin.com/2017/05/19/%E6%9D%AD%E5%B7%9E%E7%9A%84%E5%B0%8F%E7%BA%A2%E8%BD%A6/"/>
+    <id>http://dtoucoin.com/2017/05/19/杭州的小红车/</id>
     <published>2017-05-19T06:27:55.000Z</published>
     <updated>2017-05-19T06:28:39.000Z</updated>
     
@@ -899,14 +923,14 @@
     </summary>
     
     
-      <category term="随想" scheme="http://xiaogong.me/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://dtoucoin.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>人工智能时代，你会成为那个巫师吗</title>
-    <link href="http://xiaogong.me/2017/05/15/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3%EF%BC%8C%E4%BD%A0%E4%BC%9A%E6%88%90%E4%B8%BA%E9%82%A3%E4%B8%AA%E5%B7%AB%E5%B8%88%E5%90%97/"/>
-    <id>http://xiaogong.me/2017/05/15/人工智能时代，你会成为那个巫师吗/</id>
+    <link href="http://dtoucoin.com/2017/05/15/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3%EF%BC%8C%E4%BD%A0%E4%BC%9A%E6%88%90%E4%B8%BA%E9%82%A3%E4%B8%AA%E5%B7%AB%E5%B8%88%E5%90%97/"/>
+    <id>http://dtoucoin.com/2017/05/15/人工智能时代，你会成为那个巫师吗/</id>
     <published>2017-05-15T07:05:55.000Z</published>
     <updated>2017-05-15T07:06:41.000Z</updated>
     
@@ -941,14 +965,14 @@
     </summary>
     
     
-      <category term="随想" scheme="http://xiaogong.me/tags/%E9%9A%8F%E6%83%B3/"/>
+      <category term="随想" scheme="http://dtoucoin.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>罗技K380键盘使用后感受</title>
-    <link href="http://xiaogong.me/2017/05/10/%E7%BD%97%E6%8A%80K380%E9%94%AE%E7%9B%98%E4%BD%BF%E7%94%A8%E5%90%8E%E6%84%9F%E5%8F%97/"/>
-    <id>http://xiaogong.me/2017/05/10/罗技K380键盘使用后感受/</id>
+    <link href="http://dtoucoin.com/2017/05/10/%E7%BD%97%E6%8A%80K380%E9%94%AE%E7%9B%98%E4%BD%BF%E7%94%A8%E5%90%8E%E6%84%9F%E5%8F%97/"/>
+    <id>http://dtoucoin.com/2017/05/10/罗技K380键盘使用后感受/</id>
     <published>2017-05-10T14:53:31.000Z</published>
     <updated>2017-05-10T14:54:43.000Z</updated>
     
@@ -972,36 +996,7 @@
     </summary>
     
     
-      <category term="工具" scheme="http://xiaogong.me/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Resilio Sync 使用后随想</title>
-    <link href="http://xiaogong.me/2017/05/04/Resilio-Sync-%E4%BD%BF%E7%94%A8%E5%90%8E%E9%9A%8F%E6%83%B3/"/>
-    <id>http://xiaogong.me/2017/05/04/Resilio-Sync-使用后随想/</id>
-    <published>2017-05-04T15:55:40.000Z</published>
-    <updated>2017-05-04T15:57:25.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Resilio Sync 是个神器，它可以通过密钥分享你拥有设备上的文件。使用过一段时间之后，觉得不错。</p>
-<h1 id="速度"><a href="#速度" class="headerlink" title="速度"></a>速度</h1><p>只要你的文件分享后的共享节点足够多，那么速度就越快。</p>
-<h1 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h1><p>可以是你自己的工作文件通过间共享，也可以是生活照片的共享，还可以是一个自己的静态网站，静态博客，录制的音频节目，歌曲录音，自制视频等，工具一旦普及和玩法多样化，那么很多现在的网站，APP等并不需要存在了，去中心化了。</p>
-<h1 id="易用性"><a href="#易用性" class="headerlink" title="易用性"></a>易用性</h1><p>软件做的非常简洁，易用性强。</p>
-<h1 id="共享key"><a href="#共享key" class="headerlink" title="共享key"></a>共享key</h1><p>已经有很多公开的key了，大部分是资源key。<br>哦，对了也许你可以看下这个key</p>
-<blockquote>
-<p><a href="https://syncfan.com/" target="_blank" rel="external">https://syncfan.com/</a></p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Resilio Sync 是个神器，它可以通过密钥分享你拥有设备上的文件。使用过一段时间之后，觉得不错。&lt;/p&gt;
-&lt;h1 id=&quot;速度&quot;&gt;&lt;a href=&quot;#速度&quot; class=&quot;headerlink&quot; title=&quot;速度&quot;&gt;&lt;/a&gt;速度&lt;/h1&gt;&lt;p&gt;只要你的文件分享后的
-    
-    </summary>
-    
-    
-      <category term="工具" scheme="http://xiaogong.me/tags/%E5%B7%A5%E5%85%B7/"/>
+      <category term="工具" scheme="http://dtoucoin.com/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
