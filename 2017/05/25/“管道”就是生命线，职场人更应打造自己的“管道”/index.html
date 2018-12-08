@@ -511,8 +511,7 @@
   <div class="comments" id="comments">
     
       <div id="gitalk-container"></div>
-      <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-    
+
 
         </div>
         
@@ -856,8 +855,9 @@
           repo: 'walleWorks.github.io',
           owner: 'walleWorks',
           admin: [''],
-          id: location.pathname,
+          id: (location.pathname).split("/").pop().substring(0, 49),
           distractionFreeMode: 'true'
+          language: language
         })
         gitalk.render('gitalk-container')
        </script>
